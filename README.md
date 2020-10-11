@@ -1,5 +1,5 @@
-﻿# dice-simulator-python v1.0
-# developer : ZeroCoder000
+﻿# dice-simulator-python-v1.0
+# Developed by Sibi saravanan
 
 1. Run the "dice.py"
 
