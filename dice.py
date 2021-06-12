@@ -1,5 +1,5 @@
 #dice simulator using python
-#developer : zeroCoder
+#developer : sibisaravanan
 
 import random 
 import os
@@ -11,7 +11,7 @@ print('''
        | |  | || | / __|/ _ \   \___ \ | || '_ ` _ \ | | | || | / _` || __|/ _ \ | '__|  \ \ / /  | |     | | | |
        | |__| || || (__|  __/   ____) || || | | | | || |_| || || (_| || |_| (_) || |      \ V /   | |  _  | |_| |
        |_____/ |_| \___|\___|  |_____/ |_||_| |_| |_| \__,_||_| \__,_| \__|\___/ |_|       \_/    |_| (_)  \___/ 
-    	                                                                                  Developed by zeroCoder.																				                                                                                                                                          
+    	                                                                                  Developed by sibisaravanan.																				                                                                                                                                          
     	
     																					
 		'''	)
